@@ -1,4 +1,4 @@
-# drawnum
+# drawtonum
 Neural Network that classifies number from 0 to 9
 
 # Use validation set 
